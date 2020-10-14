@@ -1,2 +1,2 @@
 # DasmotoArtCraft
-built a simple website for a fictional arts and crafts store.
+Built a simple website for a fictional arts and crafts store.
