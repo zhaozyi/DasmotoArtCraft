@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    opacity: 0.6;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frame {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.front {
+    background-image: url("/media/zhaozyi/Data/vscworkspace/WebDevelopment/DasmotoArtCraft/resources/images/pattern.jpeg");
+    opacity: 0.8;
+}
+
+body {
+    background-color: rgb(238, 190, 158);
+}
